@@ -1,6 +1,6 @@
 # Tree3D
-A tool explores the semantics of design. Currently implemented in Grasshopper3D environment.
-This tool experiements with the Composition design pattern over Inheritance, attenpt to decoupling the high dependencies between objects.
+The tool explores the semantics of design. Currently implemented in Grasshopper3D environment.
+This tool experiements with the Composition design pattern over Inheritance, attempt to decouple the dependencies between objects.
 
 ## Task:
 Use a software of your choice to create a computational design tool that could generate variations of the following design; You are given a hand sketch by our designer(see attached) and a description of design intent.
